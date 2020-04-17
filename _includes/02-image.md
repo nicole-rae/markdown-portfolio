@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Shep](https://nookipedia.com/w/images/4/42/Shep_NL.png)
