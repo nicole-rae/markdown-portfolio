@@ -1,1 +1,1 @@
-[Shep's Wiki page] (https://nookipedia.com/wiki/Shep)
+[Shep Wiki page](https://nookipedia.com/wiki/Shep)
